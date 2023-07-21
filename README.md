@@ -1,7 +1,7 @@
 # Image_Clone_Detection
  Detect Clone Image Percentage
 
-It appears that the provided code is a Java program that performs image comparison using the OpenCV library. The program allows you to compare two images and find similarities between them using keypoint detection and matching techniques. The comments in the code suggest that it detects keypoints in both images, computes descriptors for those keypoints, matches the descriptors between the two images, and then uses homography to transform the keypoints from the object image to the scene image to find the location of the object in the scene.
+It appears that the provided code is a Java program that performs image comparison using the SIFT(Scale-Invariant Feature Transform) Algorithm And OpenCV library. The program allows you to compare two images and find similarities between them using keypoint detection and matching techniques. The comments in the code suggest that it detects keypoints in both images, computes descriptors for those keypoints, matches the descriptors between the two images, and then uses homography to transform the keypoints from the object image to the scene image to find the location of the object in the scene.
 
 Here is a brief summary of the main components and functionalities of the code:
 
